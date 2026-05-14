@@ -20,9 +20,11 @@ body {
   font-size: 20px;
   margin-bottom: 10px;
   text-align: right;
-  padding: 10px;
+  padding: 10px 20px 10px 10px; 
   border: none;
-  color :white;
+  background: #111;
+  color: white;
+  box-sizing: border-box;
 }
 
 .buttons {
@@ -47,4 +49,11 @@ button:hover {
 
 .zero {
   grid-column: span 2;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 28px;
 }
