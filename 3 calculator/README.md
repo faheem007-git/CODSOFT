@@ -1,11 +1,11 @@
-# 🧮 Basic Calculator
+#  Basic Calculator
 
 A simple and responsive calculator built using **HTML, CSS, and JavaScript**.
 This project performs basic arithmetic operations like addition, subtraction, multiplication, and division with an interactive user interface.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * ➕ Addition
 * ➖ Subtraction
@@ -19,7 +19,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5** → Structure of the calculator
 * **CSS3** → Styling and layout using Grid
@@ -27,7 +27,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Calculator/
@@ -39,7 +39,7 @@ Calculator/
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 Add your project screenshot here.
 
@@ -49,7 +49,7 @@ Add your project screenshot here.
 
 ---
 
-## 📋 How It Works
+##  How It Works
 
 * Users click buttons to enter numbers and operators.
 * JavaScript functions handle input and calculations.
@@ -59,7 +59,7 @@ Add your project screenshot here.
 
 ---
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 
 1. Clone the repository
 
@@ -89,12 +89,12 @@ Open `index.html` in your browser.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Faheem Ali Mirza**
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and free to use.
