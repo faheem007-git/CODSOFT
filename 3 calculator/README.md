@@ -41,12 +41,14 @@ Calculator/
 
 ##  Screenshot
 
-Add your project screenshot here.
+
 
 ```md
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calc.png)
 ```
+![Calculator Screenshot](cal.png)
 
+![Calculator Screenshot](cc.png)
 ---
 
 ##  How It Works
