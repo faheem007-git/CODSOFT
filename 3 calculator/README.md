@@ -43,13 +43,12 @@ Calculator/
 
 
 
-```md
-![Calculator Screenshot](calc.png)
-```
-![Calculator Screenshot](cal.png)
 
-![Calculator Screenshot](cc.png)
----
+![Calculator Screenshot](screenshots/calc.png)
+
+![Calculator Screenshot](screenshots/cal.png)
+
+![Calculator Screenshot](screenshots/cc.png)
 
 ##  How It Works
 

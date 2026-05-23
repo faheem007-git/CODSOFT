@@ -94,6 +94,11 @@ Newsletter subscription form.
 Copyright information.
 
 ---
+##  screenshots
+
+![landingpage screenshots](screenshots/land1.png)
+![landingpage screenshots](screenshots/land2.png)
+
 
 # 🎨 Color Palette
 

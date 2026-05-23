@@ -8,7 +8,7 @@ This repository contains all the projects, tasks, and learning outcomes from my 
 
 # About Me
 
-Hi, I’m **[Your Name]**.
+Hi, I’m **Faheem Ali Mirza**.
 
 I am passionate about:
 
@@ -152,16 +152,16 @@ Planned future improvements:
 Add your GitHub repository link here.
 
 ```bash
-https://github.com/your-username/repository-name
+https://github.com/
 ```
 
 ---
 
 # Connect With Me
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: [https://github.com/](https://github.com/faheem007)
+* LinkedIn: [https://www.linkedin.com/in/faheem-ali-mirza-a41786344](https://www.linkedin.com/in/faheem-ali-mirza-a41786344)
+* Email: [faheemalimirza07@gmail.com](mailto:faheemalimirza07@gmail.com)
 
 ---
 

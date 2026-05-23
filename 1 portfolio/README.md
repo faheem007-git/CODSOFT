@@ -75,6 +75,11 @@ Portfolio/
 
 ---
 
+## screenshots
+
+![portfolio screenshots](screenshots/front.png)
+![portfolio screenshots](screenshots/skills.png)
+
 # Responsive Design
 
 The portfolio is fully responsive and works on:
